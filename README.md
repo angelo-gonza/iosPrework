@@ -2,7 +2,7 @@
 
 Submitted by: **Angelo Gonzalez**
 
-**Bllomd** is an app specifically for IU Students(Not affiliated)
+**Bloomd** is an app specifically for IU Students(Not affiliated)
 - Allows them to see who else is in there class
 - Can send messages or DMs to others
 - see what events are happening on campus or around campus
