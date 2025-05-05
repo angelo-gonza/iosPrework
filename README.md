@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *Intro*
 
-Submitted by: **Your Name Here**
+Submitted by: **Angelo Gonzalez**
 
-**Name of your app** is an app that... [TODO] 
+**Intro** is an app that... allows you to introduce yourself to other people that are like minded and have the same interests 
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
