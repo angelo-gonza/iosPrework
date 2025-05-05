@@ -1,4 +1,4 @@
-# Prework - *Bllomd*
+# Prework - *Bloomd*
 
 Submitted by: **Angelo Gonzalez**
 
