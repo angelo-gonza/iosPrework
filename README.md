@@ -1,8 +1,15 @@
-# Prework - *Intro*
+# Prework - *Bllomd*
 
 Submitted by: **Angelo Gonzalez**
 
-**Intro** is an app that... allows you to introduce yourself to other people that are like minded and have the same interests 
+**Bllomd** is an app specifically for IU Students(Not affiliated)
+- Allows them to see who else is in there class
+- Can send messages or DMs to others
+- see what events are happening on campus or around campus
+- An explore page where students post
+- Can make groups or zoom calls
+- share notes or see what professors offer what classes
+- bringing together a community of students
 
 Time spent: **1** hours spent in total
 
